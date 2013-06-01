@@ -1,0 +1,12 @@
+name: TeleBlock
+main: com.lamtrung.teleblock.TeleBlock
+author: lam@lamtrung.com
+website: http://lamtrung.com
+version: 1.0.0
+
+commands:
+  setblock:
+  linkblock:
+  listblock:
+  removeblock:
+  checkblock:
